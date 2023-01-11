@@ -1,4 +1,3 @@
-> 12 - May - 2022
 
 ## Hotel Booking App 
 
